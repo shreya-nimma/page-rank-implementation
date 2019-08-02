@@ -1,8 +1,6 @@
 # PageRank Implementation
 
 #### Language: Python v3.6.0
- 
-<sub><sup>This project was originally completed by a group of three. However, I have only displayed the code relevant to my contribution here.</sup></sub>
 
 This project is an implementation of the Google PageRank algorithm. This code outputs the PageRank vector into a text file for viewing and writes a graph in GEXF format which can viewed using a suitable graph visualization tool. 
 
@@ -35,6 +33,8 @@ In addition, the Gephi tool is useful in viewing the graph represented in the GE
 6. Saved images of graphs opened and adjusted in Gephi are present in the "visual_graph_results" folder.
 
 ## Acknowledgements
+
+This project was originally completed by a group of three. However, I have only displayed the code relevant to my contribution here.
 
 We sourced the dataset (Google Web Graph) for the PageRank implementation for large datasets from the SNAP Large Network Dataset Collection. https://snap.stanford.edu/data/web-Google.html
 
