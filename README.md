@@ -1,6 +1,8 @@
 # PageRank Implementation
 
 #### Language: Python v3.6.0
+ 
+NOTE: This project was originally completed by a group of three. However, I have only displayed the code relevant to my contribution here.
 
 This project is an implementation of the Google PageRank algorithm. This code outputs the PageRank vector into a text file for viewing and writes a graph in GEXF format which can viewed using a suitable graph visualization tool. 
 
